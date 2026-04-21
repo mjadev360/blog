@@ -15,7 +15,7 @@ More than anything, I just want to express my admiration for the most venerable 
 
 The Microsoft Comfort Curve 2000
 
-![keyboard](/assets/comfortcurve2000.jpg)
+![keyboard]({{ '/assets/comfortcurve2000.jpg' | relative_url }})
 
 This was an extremely common keyboard when it released back in the late 2000s. It was also quite cheap, I think about $25-30.
 
@@ -39,7 +39,7 @@ I've tried other membrane keyboards, but they all feel like wading through mushy
 
 Even Microsoft's own attempt at a follow-up, the Comfort Curve 3000 pales in comparison.
 
-![keyboard](/assets/comfortcurve3000.jpg)
+![keyboard]({{ '/assets/comfortcurve3000.jpg' | relative_url }})
 
 Overly shiny, overly swooped. It screams Windows Vista aesthetic. And look at that key staggering... the "W" is closer to "A" than it is to "S". Forget ever playing a game with WASD on this abomination.
 
