@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hello World"
-date: 2026-04-20 09:00:00 +0000
+date: 2026-04-19 09:00:00 +0000
 categories: [general]
 tags: [welcome, intro]
 excerpt: "Welcome to the new blog and a quick introduction to what you'll find here."

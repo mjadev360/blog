@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Best Keyboard Ever"
+title: "Comfort Curvin'"
 date: 2026-04-20 09:00:00 +0000
 categories: [general]
 tags: [keyboard, review, ode]
