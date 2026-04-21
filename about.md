@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Welcome to **MJa Dev Blog**. This is a simple Jekyll-powered blog where I share web development notes, experiments, and tutorials.
+Welcome to **MJA Dev Blog**. This is a simple Jekyll-powered blog where I share web development notes, experiments, and tutorials.

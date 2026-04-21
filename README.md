@@ -1,4 +1,4 @@
-# MJa Dev Blog
+# MJA Dev Blog
 
 A simple blog built with Jekyll and the Minima theme.
 
