@@ -1,0 +1,9 @@
+title: "MJa Dev Blog"
+description: "A simple Jekyll blog for development notes and updates."
+author: "mjadev360"
+url: "http://localhost:4000"
+theme: minima
+permalink: /:year/:month/:day/:title/
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
